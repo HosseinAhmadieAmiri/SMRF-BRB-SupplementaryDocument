@@ -1,2 +1,2 @@
-# SMRF-BRB Supplementary Document
+# SMRF-BRB Dual Steel Buildings
 This repository contains a supplementary document for the manuscript entitled "Life Cycle Cost-Based Optimization Framework for Seismic Design and Quantifying Target Safety of Dual Steel Buildings with Buckling-Restrained Braces".
